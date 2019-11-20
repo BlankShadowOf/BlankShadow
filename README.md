@@ -5,3 +5,4 @@
 
 ***Contemplen el sitio más básico, chido y dedicado a mi princesa (esta va para ti mi amor :smirk::heart:). También es como un inicio para mi web oficial :sunglasses:.***
 
+![Imagen de mi portada principal para que vean lo chido y básico que se ve](img/otros/portada-blank-shadow.png)
