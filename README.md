@@ -1,4 +1,4 @@
-# Blank Shadow
+# _Blank Shadow_
 _Bienvenidos a la web mas simple pero chida del mundo._
 
 _¿Blogger? ¿Wix? ¿Bootstrap? Pfff, eso es para nenitas, aqui full Jquery, JavaScript y CSS desde cero._
