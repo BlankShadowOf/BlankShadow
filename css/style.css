@@ -17,6 +17,9 @@
 .red-color{
 	color:red;
 }
+.yellow-color{
+	color:#ffe31b;
+}
 .text-hora{
 	display:block;
 	border-left: 5px solid green;
@@ -495,10 +498,19 @@ li{
 	overflow:hidden;
 	box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.2);
 }
-.contenedor-carta .cartas img{
+.contenedor-carta .cartas .img-estado{
 	display:block;
 	width:100%;
 	height:auto;
+}
+.contenedor-carta .cartas .sumilla-fotos{
+	display:block;
+	width:100%;
+	font-style:italic;
+	color:#9c9c9c;
+	margin:5px 0px;
+	text-align:right;
+	font-size:20px;
 }
 .contenedor-carta .cartas .texto{
 	font-size:30px;
