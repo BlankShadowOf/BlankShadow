@@ -2,6 +2,8 @@
 ***Bienvenidos a la web mas simple pero chida del mundo.***
 
 ***¿Blogger? ¿Wix? ¿Bootstrap? Pfff, eso es para nenitas, aquí full Jquery, JavaScript y CSS desde cero.***
+![No lo digo yo, lo dice la ciencia](img/otros/la-ciencia-blank-shadow.png)
+>_No lo digo yo, lo dice la ciencia :v_
 
 ***Contemplen el sitio más básico, chido y dedicado a mi princesa (esta va para ti mi amor :smirk::heart:). También es como un inicio para mi web oficial :sunglasses:.***
 
