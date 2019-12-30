@@ -8,6 +8,9 @@
 	-ms-box-sizing:border-box;
 	-o-box-sizing:border-box;
 }
+#flake{
+	font-family: Segoe UI, Segoe UI Light, Segoe UI Semibold;
+}
 .rotate-y-180{
 	transform:rotateY(180deg);
 }
